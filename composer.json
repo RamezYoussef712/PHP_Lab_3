@@ -1,0 +1,20 @@
+{
+    "name": "ramez/lab3",
+    "description": "description",
+    "authors": [
+        {
+            "name": "RamezYoussef712",
+            "email": "ramez.youssef.fahmy@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": [
+          "Model"
+        ],
+        "files": [
+          "config.php"
+        ]
+      },
+    "require": {}
+}
